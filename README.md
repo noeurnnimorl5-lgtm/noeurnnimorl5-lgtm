@@ -68,22 +68,7 @@ I'm a Year 3 IT Engineering student at the **Royal University of Phnom Penh (RUP
 
 ---
 
-### 🌟 Featured Projects
 
-- **💬 [chat-app](https://github.com/noeurnnimorl5-lgtm)** — A Telegram-inspired real-time chat application with JWT auth, group chats, WebRTC voice/video calls, screen sharing, voice messages, reactions, and an AI assistant. Built with Next.js, Node.js/Express, Socket.IO, and MongoDB.
-- **🛒 Pointsell** — A full POS system with a Flutter cashier app and a Flutter web admin panel, backed by Laravel 11 and MySQL, featuring inventory, orders, and a custom-built analytics dashboard.
-- **🎵 Echo Panda** — A music streaming platform with a React/TypeScript frontend and a Dockerized Laravel/PostgreSQL backend, integrating Firebase auth, Supabase, and Cloudflare R2.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noeurnnimorl5-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noeurnnimorl5-lgtm&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
-
----
 
 ### 📫 Connect With Me
 
